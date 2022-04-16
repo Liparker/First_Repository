@@ -5,5 +5,6 @@ class Cperson
 {
 private:
     Cperson(){}
-    ~Cperson(){}
 }
+
+Cperson * p1=NULL;
