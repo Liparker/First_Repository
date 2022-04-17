@@ -73,3 +73,28 @@
 生化危机|299|12
 英雄联盟|98|24
 Apex|111|222
+
+#代码
+
+### 在文档中插入代码片段
+
+```c
+#include<stdio.h>
+int main()
+{
+  printf("hello world");
+}
+```
+
+```python
+import os
+def main():
+    loop = asyncio.get_event_loop()
+	if _name == '_main_':
+	  main()
+```
+
+```bash
+      netstate -apn | Grep
+	  od -ctx files
+```
